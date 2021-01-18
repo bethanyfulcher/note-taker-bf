@@ -27,12 +27,6 @@ app.get("/api/notes", (req,res) => {
         res.json(JSON.parse(data))
     })
 
-    // const str = fs.readFileSync(dbPath, function(err, data) {
-    //     if (err) throw err;
-    //     console.log(data)
-    // })
-    // return res.json(JSON.parse(str));
-
 })
 
 app.post("/api/notes", (req,res) => {
