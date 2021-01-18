@@ -13,7 +13,7 @@ Run "npm i" in terminal
 
 ## Links:
 
-This site is currently deployed at:
+This site is currently deployed at: https://mighty-shore-30169.herokuapp.com/
 
 If you wish to deploy this application locally, run 'npm start' in the repository's terminal. Then search in browser 'localhost:8080' to use 'Note Taker'.
 
